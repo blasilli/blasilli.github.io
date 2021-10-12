@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+I am a PhD student in Engineering  in  Computer Science at Sapienza Univerity of Rome, and a member of [A.W.A.RE](http://aware.diag.uniroma1.it/) research group. My main research  interests  include  Visual  Analytics  for  Explainable  Machine Learning applied to the Cybersecurity domain. On these topics I have published more than ten publications in peer-reviewed international journals and conferences.
 
-You can use the [editor on GitHub](https://github.com/blasilli/blasilli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Publications
+Here the list of my publications, which includes 2 journal papers, X full conference papers, 2 short conference papers, and 1 posters.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Journal Papers
 
-### Markdown
+- _Angelini, Blasilli, Lenti, Palleschi and Santucci:_<br>
+  Effectiveness Error: Measuring and Improving RadViz Visual Effectiveness.<br>
+  _IEEE Transactions on Visualization and Computer Graphics, 2021._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- _Angelini, Blasilli, Catarci, Lenti, and Santucci:_<br/>
+  Vulnus: Visual Vunerability Analysis for Network Security.<br>
+  _IEEE Transactions on Visualization and Computer Graphics, 2019_.
 
-```markdown
-Syntax highlighted code block
+### Conference Papers
+- _Angelini, Blasilli, Bonomi, Lenti, Palleschi, Santucci, De Paoli:_<br/>
+  BUCEPHALUS: a BUsiness CEntric cybersecurity Platform for proActive anaLisys Using visual analyticS.<br/>
+  _IEEE Symposium on Visualization for Cyber Security (VizSec), 2021_.
+  
+- _Blasilli, De Paoli, Lenti, and Picca:_<br>
+  Lessons learned while supporting Cyber Situational Awareness.<br>
+  _EuroVis Workshop on Visual Analytics (EuroVA), 2021_.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Posters
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blasilli/blasilli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- _Blasilli, Palleschi, and Lenti:_<br>
+  CrossWidget: a D3.js Plugin to Support Multiple Scented Cross Filtering Activities.<br>
+  _EuroVis — Posters, 2019_.
