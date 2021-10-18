@@ -21,16 +21,18 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</a>
-        <a><i class="fab fa-envelope"></i>Email</a>
-        <a><i class="fab fa-twitter-square"></i> Twitter</a>
-        <a><i class="fab fa-linkedin"></i> Linkedin</a>
-        <hr>
-        <a><i class="ai ai-orcid ai-3x"></i> ORCID</a>
-        <a><i class="ai ai-scopuse ai-2x"></i> Scopus</a>
-        <a><i class="ai ai-google-scholar-square ai-3x"></i> Google Scholar</a>
-        <a><i class="ai ai-researchgate ai-3x"></i> ResearchGate</a>
-        <a><i class="ai ai-dblp"></i> dblp</a>
-        <a class="alink"><i class="fab fa-github"></i> GitHub</a>
+        <p>
+          <a class="alink"><i class="fas fa-envelope"></i>"></i>Email</a><br>
+          <a class="alink"><i class="fab fa-twitter-square"></i> Twitter</a><br>
+          <a class="alink"><i class="fab fa-linkedin"></i> Linkedin</a>
+          <hr>
+          <a class="alink"><i class="ai ai-orcid ai-2x"></i> ORCID</a><br>
+          <a class="alink"><i class="ai ai-scopus ai-2x"></i> Scopus</a><br>
+          <a class="alink"><i class="ai ai-google-scholar-square"></i> Google Scholar</a><br>
+          <a class="alink"><i class="ai ai-researchgate"></i> ResearchGate</a><br>
+          <a class="alink"><i class="ai ai-dblp"></i> dblp</a><br>
+          <a class="alink"><i class="fab fa-github"></i> GitHub</a><br>
+        </p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
