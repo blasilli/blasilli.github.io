@@ -21,3 +21,35 @@ a:hover {
     margin-right: 1em;
   }
 }
+
+.pub-title {
+  font-weight: normal !important;
+  color: #2d7788;
+  cursor: pointer;
+
+  &:after{
+    content: "\a" !important;
+    white-space: pre !important;
+  }
+
+  &:hover{
+    //font-weight: normal !important;
+    //color: #2d7788 !important;
+    //text-decoration: underline solid red;
+  }
+}
+
+.pub-authors {
+  font-weight: 200;
+  font-style: italic;
+  color: #97AAC3;
+  
+  &:after{
+    content: "\a" !important;
+    white-space: pre !important;
+  }
+}
+
+.pub-venue {
+  font-style: normal !important;
+}
