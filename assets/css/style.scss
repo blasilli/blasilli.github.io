@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-a > {
+a {
   cursor: pointer;
   color: #2d7788;
 
@@ -35,12 +35,6 @@ a > {
   &:after{
     content: "\a" !important;
     white-space: pre !important;
-  }
-
-  &:hover{
-    //font-weight: normal !important;
-    //color: #2d7788 !important;
-    //text-decoration: underline solid red;
   }
 }
 
