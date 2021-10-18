@@ -1,123 +1,33 @@
 ---
 layout: default
 ---
+I am a PhD student in Engineering in Computer Science at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and a member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My main research interests include Visual Analytics for Explainable Machine Learning applied to the Cybersecurity domain. In particular, my research focuses on supporting humans in decision-making regarding cyber threat analysis and management by using explainable Visual Analytics solutions. On these topics, I have published more than ten publications in peer-reviewed international journals and conferences.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<hr>
+## Publications
+Here the list of my publications, which includes 2 journal papers, X conference papers, and 1 poster.
 
-[Link to another page](./another-page.html).
+### Journal Papers
+- [Effectiveness Error: Measuring and Improving RadViz Visual Effectiveness](https://doi.org/10.1109/TVCG.2021.3104879){:.pub-title}{:target="_blank"}
+  <span class="pub-authors">Angelini, Blasilli, Lenti, Palleschi and Santucci</span>
+  <span class="pub-venue">IEEE Transactions on Visualization and Computer Graphics, 2021</span>
 
-There should be whitespace between paragraphs.
+- [Vulnus: Visual Vunerability Analysis for Network Security](https://doi.org/10.1109/TVCG.2018.2865028){:.pub-title}{:target="_blank"}
+  <span class="pub-authors">Angelini, Blasilli, Catarci, Lenti, and Santucci</span>
+  <span class="pub-venue">IEEE Transactions on Visualization and Computer Graphics, 2019</span>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Conference Papers
 
-# Header 1
+- [BUCEPHALUS: a BUsiness CEntric cybersecurity Platform for proActive anaLisys Using visual analyticS](){:.pub-title}{:target="_blank"}
+  <span class="pub-authors">Angelini, Blasilli, Bonomi, Lenti, Palleschi, Santucci, and De Paoli</span>
+  <span class="pub-venue">IEEE Symposium on Visualization for Cyber Security (VizSec), 2021</span>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- ... TODO
 
-## Header 2
+### Posters
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- [CrossWidget: a D3.js Plugin to Support Multiple Scented Cross Filtering Activities](https://doi.org/10.2312/eurp.20191131){:.pub-title}{:target="_blank"}
+  <span class="pub-authors">Blasilli, Palleschi, and Lenti</span>
+  <span class="pub-venue">EuroVis - Posters, 2019</span>
+  
+<hr>
