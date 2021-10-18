@@ -4,8 +4,9 @@
 @import "{{ site.theme }}";
 
 a:hover {
+  cursor: pointer;
   font-weight: normal !important;
-  text-decoration: underline solid blue;
+  text-decoration: underline solid #727272;
 }
 
 #logo {
@@ -16,5 +17,5 @@ a:hover {
 }
 
 .alink {
-  font-family: monospace;
+  font-size: 1.1em;
 }
