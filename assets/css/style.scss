@@ -17,5 +17,7 @@ a:hover {
 }
 
 .alink {
-  font-size: 1.1em;
+  > i {
+    margin-right: 1em;
+  }
 }
