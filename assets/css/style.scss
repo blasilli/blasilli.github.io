@@ -3,10 +3,15 @@
 
 @import "{{ site.theme }}";
 
-a:hover {
+a > {
   cursor: pointer;
-  font-weight: normal !important;
-  text-decoration: underline solid #727272;
+  color: #2d7788;
+
+  &:hover {
+    cursor: pointer;
+    font-weight: normal !important;
+    text-decoration: underline solid #727272;
+  }
 }
 
 #logo {
@@ -52,4 +57,5 @@ a:hover {
 
 .pub-venue {
   font-style: normal !important;
+  font-size: 0.9em;
 }
