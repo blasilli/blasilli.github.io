@@ -50,9 +50,7 @@ a {
   }
   
   .pa {
-    font-weight: 100;
-    font-style: normal;
-    font-size: 1em;
+    font-size: 0.9em;
     //color: #97AAC3;
     
     &:after{
@@ -63,12 +61,12 @@ a {
   
   .pv {
     font-style: italic;
-    font-weight: 100;
+    //font-weight: 100;
     font-size: 0.9em;
   }
   
   .paward {
-    font-style: bold !important;
+    font-style: bold;
     font-size: 0.9em;
     &:before{
       content: "\a" !important;
