@@ -27,47 +27,7 @@ a {
   }
 }
 
-/*
-.pt {
-  font-weight: normal !important;
-  color: #2d7788;
-  cursor: pointer;
-
-  &:after{
-    content: "\a" !important;
-    white-space: pre !important;
-  }
-}
-
-.pa {
-  font-weight: 200;
-  font-style: normal;
-  color: #97AAC3;
-  
-  &:after{
-    content: "\a" !important;
-    white-space: pre !important;
-  }
-}
-
-.pv {
-  font-style: italic !important;
-  font-size: 0.9em;
-}
-
-.paward {
-  font-style: bold !important;
-  font-size: 0.9em;
-}
-*/
-
 .pub {
-  li {
-    padding-left: 1em;
-    border-left: solid 2px #2d7788;
-    padding-bottom: 1em;
-  }
-
   .pt {
     font-weight: normal !important;
     color: #2d7788;
@@ -82,6 +42,7 @@ a {
   .pa {
     font-weight: 200;
     font-style: normal;
+    font-size: 0.9em;
     color: #97AAC3;
     
     &:after{
@@ -98,5 +59,9 @@ a {
   .paward {
     font-style: bold !important;
     font-size: 0.9em;
+    &:before{
+      content: "\a" !important;
+      white-space: pre !important;
+    }
   }
 }
