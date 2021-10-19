@@ -50,9 +50,9 @@ a {
   }
   
   .pa {
-    font-weight: 200;
+    font-weight: 100;
     font-style: normal;
-    font-size: 0.9em;
+    font-size: 1em;
     //color: #97AAC3;
     
     &:after{
@@ -62,7 +62,8 @@ a {
   }
   
   .pv {
-    font-style: italic !important;
+    font-style: italic;
+    font-weight: 100;
     font-size: 0.9em;
   }
   
