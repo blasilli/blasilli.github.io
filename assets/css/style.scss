@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
 
 a {
   cursor: pointer;
@@ -10,11 +10,11 @@ a {
   &:hover {
     cursor: pointer;
     font-weight: normal !important;
-    text-decoration: underline solid #727272;
+    text-decoration: underline solid #2d7788;
   }
 }
 
-#logo {
+#me {
   max-width:110px;
   -webkit-border-radius:150px;
   -moz-border-radius:150px;
@@ -27,7 +27,7 @@ a {
   }
 }
 
-.pub-title {
+.pt {
   font-weight: normal !important;
   color: #2d7788;
   cursor: pointer;
@@ -38,9 +38,9 @@ a {
   }
 }
 
-.pub-authors {
+.pa {
   font-weight: 200;
-  font-style: italic;
+  font-style: normal;
   color: #97AAC3;
   
   &:after{
@@ -49,7 +49,12 @@ a {
   }
 }
 
-.pub-venue {
-  font-style: normal !important;
+.pv {
+  font-style: italic !important;
+  font-size: 0.9em;
+}
+
+.paward {
+  font-style: bold !important;
   font-size: 0.9em;
 }

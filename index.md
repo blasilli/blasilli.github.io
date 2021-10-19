@@ -22,7 +22,8 @@ The list of my publications includes 2 journal papers, 9 conference papers, and 
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2021</span>
 - [CrossWidgets: Enhancing Complex Data Selections through Modular Multi Attribute Selectors](https://doi.org/10.1145/3399715.3399918){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, Palleschi, and Santucci</span>
-  <span class="pv">International Conference on Advanced Visual Interfaces (AVI), 2020</span><b class="paward">Best Paper Honorable Mention</b>
+  <span class="pv">International Conference on Advanced Visual Interfaces (AVI), 2020</span>
+  <b class="paward">Best Paper Honorable Mention</b>
 - [SymNav: Visually Assisting Symbolic Execution](https://doi.org/10.1109/VizSec48167.2019.9161524){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Borzacchiello, Coppa, D’Elia, Demetrescu, Lenti, Nicchi, and Santucci</span>
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2019</span>
@@ -34,7 +35,8 @@ The list of my publications includes 2 journal papers, 9 conference papers, and 
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2018</span>
 - [Ropmate: Visually assisting the creation of rop-based exploits](https://doi.org/10.1109/VIZSEC.2018.8709204){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Borrello, Coppa, D’Elia, Ferracci, Lenti, and Santucci</span>
-  <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2018</span><b class="paward">Best Paper Award</b>
+  <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2018</span>
+  <b class="paward">Best Paper Award</b>
 - [STEIN: Speeding up Evaluation Activities With a Seamless Testing Environment INtegrator](https://doi.org/10.5555/3290776.3290794){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
   <span class="pv">EuroVis - Short Papers, 2018</span>
