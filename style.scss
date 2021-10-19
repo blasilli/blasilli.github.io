@@ -1,16 +1,16 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
 
 a {
   cursor: pointer;
-  color: #2d7788;
+  color: #777e80;
 
   &:hover {
     cursor: pointer;
     font-weight: normal !important;
-    text-decoration: underline solid #727272;
+    text-decoration: underline solid #777e80; //#727272;
   }
 }
 
@@ -27,7 +27,8 @@ a {
   }
 }
 
-.pub-title {
+
+.pt {
   font-weight: normal !important;
   color: #2d7788;
   cursor: pointer;
@@ -38,9 +39,8 @@ a {
   }
 }
 
-.pub-authors {
-  font-weight: 200;
-  font-style: italic;
+.pa {
+  font-style:  normal;
   color: #97AAC3;
   
   &:after{
@@ -49,7 +49,7 @@ a {
   }
 }
 
-.pub-venue {
-  font-style: normal !important;
+.pv {
+  font-style: italic;
   font-size: 0.9em;
 }
