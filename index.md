@@ -5,7 +5,7 @@ I am a PhD student in Engineering in Computer Science at [Sapienza Università d
 
 <hr>
 ## Publications
-The list of my publications includes 2 journal papers, 9 conference papers, and 1 poster.
+The list of my publications includes 2 journal papers, 10 conference papers, and 1 poster.
 
 #### Journal Papers
 - [Effectiveness Error: Measuring and Improving RadViz Visual Effectiveness](https://doi.org/10.1109/TVCG.2021.3104879){:.pt}{:target="_blank"}
