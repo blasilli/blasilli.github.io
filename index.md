@@ -20,6 +20,9 @@ The list of my publications includes 2 journal papers, 9 conference papers, and 
 - [BUCEPHALUS: a BUsiness CEntric cybersecurity Platform for proActive anaLisys Using visual analyticS](){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Bonomi, Lenti, Palleschi, Santucci, and De Paoli</span>
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2021</span>
+- [Lessons learned while supporting Cyber Situational Awareness](https://doi.org/10.2312/eurova.20211093){:.pt}{:target="_blank"}
+  <span class="pa">Blasilli, De Paoli, Lenti, and Picca</span>
+  <span class="pv">EuroVis Workshop on Visual Analytics (EuroVA), 2021</span>
 - [CrossWidgets: Enhancing Complex Data Selections through Modular Multi Attribute Selectors](https://doi.org/10.1145/3399715.3399918){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, Palleschi, and Santucci</span>
   <span class="pv">International Conference on Advanced Visual Interfaces (AVI), 2020</span>
