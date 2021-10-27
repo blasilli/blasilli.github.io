@@ -17,7 +17,7 @@ The list of my publications includes 2 journal papers, 10 conference papers, and
 {:.pub .pub-journals}
 
 #### Conference Papers
-- [BUCEPHALUS: a BUsiness CEntric cybersecurity Platform for proActive anaLisys Using visual analyticS](){:.pt}{:target="_blank"}
+- [BUCEPHALUS: a BUsiness CEntric cybersecurity Platform for proActive anaLisys Using visual analyticS](https://doi.org/10.1109/VizSec53666.2021.00007){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Bonomi, Lenti, Palleschi, Santucci, and De Paoli</span>
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2021</span>
 - [Lessons learned while supporting Cyber Situational Awareness](https://doi.org/10.2312/eurova.20211093){:.pt}{:target="_blank"}
