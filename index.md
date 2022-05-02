@@ -40,7 +40,7 @@ The list of my publications includes 2 journal papers, 10 conference papers, and
   <span class="pa">Angelini, Blasilli, Borrello, Coppa, D’Elia, Ferracci, Lenti, and Santucci</span>
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2018</span>
   <b class="paward">Best Paper Award</b>
-- [STEIN: Speeding up Evaluation Activities With a Seamless Testing Environment INtegrator](https://doi.org/10.5555/3290776.3290794){:.pt}{:target="_blank"}
+- [STEIN: Speeding up Evaluation Activities With a Seamless Testing Environment INtegrator](https://diglib.eg.org/handle/10.2312/eurovisshort20181083){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
   <span class="pv">EuroVis - Short Papers, 2018</span>
 - [Visual exploration and analysis of the italian cybersecurity framework](https://doi.org/10.1145/3206505.3206579){:.pt}{:target="_blank"}
