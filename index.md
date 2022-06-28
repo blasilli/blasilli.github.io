@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I am a Postdoctoral Researcher in Engineering in Computer Science at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and a member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My main research interests include Visual Analytics applied to the Cybersecurity domain and to the eXpainable Artificial Intelligence (XAI) methods. On these topics, I have published more than ten publications in peer-reviewed international journals and conferences.
+I am a Postdoctoral Researcher in Visual Analytics at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My main research interests include Visual Analytics applied to the Cybersecurity domain and to the eXpainable Artificial Intelligence (XAI) methods. On these topics, I have published more than ten publications in peer-reviewed international journals and conferences.
 
 <hr>
 ## Publications
