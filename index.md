@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-I am a Postdoctoral Researcher in Visual Analytics at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My main research interests include Visual Analytics applied to the Cybersecurity domain and to the eXpainable Artificial Intelligence (XAI) methods. On these topics, I have published more than ten publications in peer-reviewed international journals and conferences.
+I am a Postdoctoral Researcher in Visual Analytics at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My main research interests include Visual Analytics applied to the Cybersecurity domain and to the eXpainable Artificial Intelligence (XAI) methods.
 
 <hr>
 ## Publications
-The list of my publications includes 2 journal papers, 10 conference papers, and 1 poster.
+The list of my publications includes **2** journal papers, **10** conference papers, and **1** poster.
 
 #### Journal Papers
 - [Effectiveness Error: Measuring and Improving RadViz Visual Effectiveness](https://doi.org/10.1109/TVCG.2021.3104879){:.pt}{:target="_blank"}
