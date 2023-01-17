@@ -8,9 +8,9 @@ I am a Postdoctoral Researcher in Visual Analytics at [Sapienza Università di R
 The list of my publications includes **3** journal papers, **10** conference papers, and **1** poster.
 
 #### Journal Papers
-- [State of the Art of Visual Analytics for eXplainable Deep Learning](https://doi.org/){:.pt}{:target="_blank"}
+- [State of the Art of Visual Analytics for eXplainable Deep Learning](https://doi.org/10.1111/cgf.14733){:.pt}{:target="_blank"}
   <span class="pa">La Rosa, Blasilli, Bourqui, Auber, Santucci, Capobianco, Bertini, Giot, and Angelini</span>
-  <span class="pv">Computer Graphics Forum, 2023. To appear.</span>
+  <span class="pv">Computer Graphics Forum, 2023.</span>
 - [Effectiveness Error: Measuring and Improving RadViz Visual Effectiveness](https://doi.org/10.1109/TVCG.2021.3104879){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, Palleschi and Santucci</span>
   <span class="pv">IEEE Transactions on Visualization and Computer Graphics, 2021</span>
