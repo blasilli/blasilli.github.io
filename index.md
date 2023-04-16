@@ -8,6 +8,9 @@ I am a Postdoctoral Researcher in Visual Analytics at [Sapienza Università di R
 The list of my publications includes **3** journal papers, **10** conference papers, and **1** poster.
 
 #### Journal Papers
+- [A Visual Analytics Conceptual Framework for Explorable and Steerable Partial Dependence Analysis](https://doi.org/10.1109/TVCG.2023.3263739){:.pt}{:target="_blank"}
+  <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
+  <span class="pv">IEEE Transactions on Visualization and Computer Graphics, 2023</span>
 - [State of the Art of Visual Analytics for eXplainable Deep Learning](https://doi.org/10.1111/cgf.14733){:.pt}{:target="_blank"}
   <span class="pa">La Rosa, Blasilli, Bourqui, Auber, Santucci, Capobianco, Bertini, Giot, and Angelini</span>
   <span class="pv">Computer Graphics Forum, 2023.</span>
