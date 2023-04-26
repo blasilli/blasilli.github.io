@@ -5,7 +5,6 @@ I am a Postdoctoral Researcher in Visual Analytics at [Sapienza Università di R
 
 <hr>
 ## Publications
-The list of my publications includes **4** journal papers, **10** conference papers, and **1** poster.
 
 #### Journal Papers
 - [A Visual Analytics Conceptual Framework for Explorable and Steerable Partial Dependence Analysis](https://doi.org/10.1109/TVCG.2023.3263739){:.pt}{:target="_blank"}
