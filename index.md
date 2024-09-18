@@ -1,12 +1,15 @@
 ---
 layout: default
 ---
-I am a Postdoctoral Researcher in Visual Analytics at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My main research interests include Visual Analytics applied to the Cybersecurity domain and to the eXpainable Artificial Intelligence (XAI) methods.
+I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My main research interests include Visual Analytics and InfoVis applied to the eXpainable Artificial Intelligence (XAI) methods, to the Cybersecurity domain, and Medical domain.
 
 <hr>
 ## Publications
 
 #### Journal Papers
+- [Improving the Understandability of Declarative Process Discovery Results Using easyDeclare](https://zenodo.org/doi/10.5281/zenodo.13622517){:.pt}{:target="_blank"}
+  <span class="pa">Blasilli, Ferro, Lenti, Maggi, Marrella, and Catarci</span>
+  <span class="pv">Preprint submitted to Information Systems for peer-review, 2024</span>
 - [A Visual Analytics Conceptual Framework for Explorable and Steerable Partial Dependence Analysis](https://doi.org/10.1109/TVCG.2023.3263739){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
   <span class="pv">IEEE Transactions on Visualization and Computer Graphics, 2023</span>
@@ -22,6 +25,9 @@ I am a Postdoctoral Researcher in Visual Analytics at [Sapienza Università di R
 {:.pub .pub-journals}
 
 #### Conference Papers
+- [Towards a Visual Perception-Based Analysis of Clustering Quality Metrics](https://ieeevis.org/year/2024/program/paper_s-vds-1013.html){:.pt}{:target="_blank"}
+  <span class="pa">Blasilli, Kerrigan, Bertini, and Santucci</span>
+  <span class="pv">IEEE Visualization in Data Science (VDS), 2024</span>
 - [BUCEPHALUS: a BUsiness CEntric cybersecurity Platform for proActive anaLisys Using visual analyticS](https://doi.org/10.1109/VizSec53666.2021.00007){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Bonomi, Lenti, Palleschi, Santucci, and De Paoli</span>
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2021</span>
