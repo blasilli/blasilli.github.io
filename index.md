@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My main research interests include Visual Analytics and InfoVis applied to the eXpainable Artificial Intelligence (XAI) methods, to the Cybersecurity domain, and Medical domain.
+I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My research interests include Visual Analytics and InfoVis, mainly applied to the eXpainable Artificial Intelligence (XAI) methods, to the Cybersecurity domain, and Medical domain.
 
 <hr>
 ## Publications
