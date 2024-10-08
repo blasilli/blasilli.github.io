@@ -7,7 +7,7 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
 ## Publications
 
 #### Journal Papers
-- [Improving the Understandability of Declarative Process Discovery Results Using easyDeclare](https://zenodo.org/doi/10.5281/zenodo.13622517){:.pt}{:target="_blank"}
+- [Improving the Understandability of Declarative Process Discovery Results Using easyDeclare](http://dx.doi.org/10.2139/ssrn.4975617){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Ferro, Lenti, Maggi, Marrella, and Catarci</span>
   <span class="pv">Preprint submitted to Information Systems for peer-review, 2024</span>
 - [A Visual Analytics Conceptual Framework for Explorable and Steerable Partial Dependence Analysis](https://doi.org/10.1109/TVCG.2023.3263739){:.pt}{:target="_blank"}
