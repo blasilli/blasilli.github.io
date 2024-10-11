@@ -28,7 +28,7 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
 - [Towards a Visual Perception-Based Analysis of Clustering Quality Metrics](https://ieeevis.org/year/2024/program/paper_s-vds-1013.html){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Kerrigan, Bertini, and Santucci</span>
   <span class="pv">IEEE Visualization in Data Science (VDS), 2024</span>
-- [EDD: A Web-Based Editor for Declarative Process Models Using easyDeclare](https://ceur-ws.org/){:.pt}{:target="_blank"}
+- [EDD: A Web-Based Editor for Declarative Process Models Using easyDeclare]([https://ceur-ws.org/](https://ceur-ws.org/Vol-3783/paper_364.pdf)){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Ferro, Lenti, Maggi, Marrella, and Catarci</span>
   <span class="pv">ICPM Doctoral Consortium and Demo Track, 2024</span>
 - [BUCEPHALUS: a BUsiness CEntric cybersecurity Platform for proActive anaLisys Using visual analyticS](https://doi.org/10.1109/VizSec53666.2021.00007){:.pt}{:target="_blank"}
