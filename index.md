@@ -25,7 +25,7 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
 {:.pub .pub-journals}
 
 #### Conference Papers
-- [Towards a Visual Perception-Based Analysis of Clustering Quality Metrics](https://ieeevis.org/year/2024/program/paper_s-vds-1013.html){:.pt}{:target="_blank"}
+- [Towards a Visual Perception-Based Analysis of Clustering Quality Metrics](https://doi.org/10.1109/VDS63897.2024.00007){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Kerrigan, Bertini, and Santucci</span>
   <span class="pv">IEEE Visualization in Data Science (VDS), 2024</span>
 - [EDD: A Web-Based Editor for Declarative Process Models Using easyDeclare]([https://ceur-ws.org/](https://ceur-ws.org/Vol-3783/paper_364.pdf)){:.pt}{:target="_blank"}
