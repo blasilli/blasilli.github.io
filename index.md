@@ -66,6 +66,9 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
 {:.pub .pub-conferences}
 
 #### Posters
+- [Differential Gene Expression Analysis with Visual Analytics](https://doi.org/10.2312/evp.20251126){:.pt}{:target="_blank"}
+  <span class="pa">Fortunato, Santaroni, Blasilli, Fiscon, Lenti, Santucci</span>
+  <span class="pv">EuroVis - Posters, 2025</span>
 - [CrossWidget: a D3.js Plugin to Support Multiple Scented Cross Filtering Activities](https://doi.org/10.2312/eurp.20191131){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Palleschi, and Lenti</span>
   <span class="pv">EuroVis - Posters, 2019</span>
