@@ -25,6 +25,9 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
 {:.pub .pub-journals}
 
 #### Conference Papers
+- [True (VIS) Lies: A Preliminary Analysis of How Generative AI is Capable of Recognizing Visualization Lies and their Rhetoric](https://github.com/blasilli/TrueVISLies/blob/main/True%20(VIS)%20Lies%20-%20paper.pdf){:.pt}{:target="_blank"}
+  <span class="pa">Blasilli and Angelini</span>
+  <span class="pv">1st Workshop on GenAI, Agents, and the Future of VIS. IEEE VIS, 2025</span>
 - [Towards a Visual Perception-Based Analysis of Clustering Quality Metrics](https://doi.org/10.1109/VDS63897.2024.00007){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Kerrigan, Bertini, and Santucci</span>
   <span class="pv">IEEE Visualization in Data Science (VDS), 2024</span>
