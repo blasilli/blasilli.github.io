@@ -9,7 +9,7 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
 #### Journal Papers
 - [Improving the Understandability of Declarative Process Discovery Results Using easyDeclare](http://dx.doi.org/10.2139/ssrn.4975617){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Ferro, Lenti, Maggi, Marrella, and Catarci</span>
-  <span class="pv">Preprint submitted to Information Systems for peer-review, 2024</span>
+  <span class="pv">Preprint under minor review to Information Systems, 2025</span>
 - [A Visual Analytics Conceptual Framework for Explorable and Steerable Partial Dependence Analysis](https://doi.org/10.1109/TVCG.2023.3263739){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
   <span class="pv">IEEE Transactions on Visualization and Computer Graphics, 2023</span>
@@ -28,6 +28,15 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
 - [True (VIS) Lies: A Preliminary Analysis of How Generative AI is Capable of Recognizing Visualization Lies and their Rhetoric](https://github.com/blasilli/TrueVISLies/blob/main/True%20(VIS)%20Lies%20-%20paper.pdf){:.pt}{:target="_blank"}
   <span class="pa">Blasilli and Angelini</span>
   <span class="pv">1st Workshop on GenAI, Agents, and the Future of VIS. IEEE VIS, 2025</span>
+- [Bridging Service Design, Visualizations, and Visual Analytics in Healthcare Digital Twins: Challenges, Gaps, and Research Opportunities](https://arxiv.org/abs/2506.24104){:.pt}{:target="_blank"}
+  <span class="pa">Ershova and Blasilli</span>
+  <span class="pv">16th workshop on Visual Analytics in Healthcare, 2025</span>
+- [Differential Gene Expression Analysis with Visual Analytics](https://doi.org/10.2312/evp.20251126){:.pt}{:target="_blank"}
+  <span class="pa">Fortunato, Santaroni, Blasilli, Fiscon, Lenti, and Santucci</span>
+  <span class="pv">EuroVis 2025 - Posters, 2025</span>
+- [Smart assistive technology for vulnerable people in public services: a multi-approach didactic framework](https://doi.org/10.35199/EPDE.2025.101){:.pt}{:target="_blank"}
+  <span class="pa">Saviano, Ershova, Malakuczi, and Blasilli}</span>
+  <span class="pv">DS 137: Proceedings of the International Conference on Engineering and Product Design Education, 2025</span>
 - [Towards a Visual Perception-Based Analysis of Clustering Quality Metrics](https://doi.org/10.1109/VDS63897.2024.00007){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Kerrigan, Bertini, and Santucci</span>
   <span class="pv">IEEE Visualization in Data Science (VDS), 2024</span>
